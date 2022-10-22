@@ -1,0 +1,5 @@
+*{font-family:'Brush Script MT', cursive; width:100%; text-align:center;}
+body{background-color:rgb(113, 109, 166);color:#ddd}
+a{color:#ddd;font-size:25px;text-decoration:none;position:absolute;top:10px}
+a:hover{background-color:#333;border-radius:10px}
+img{height:50px;width:50px;left:5px;position:absolute}
