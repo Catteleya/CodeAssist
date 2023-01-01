@@ -3,10 +3,10 @@ document.getElementById("heading").innerHTML =
 document.getElementById("content").innerHTML =
   localStorage["text"] || "Subtext [inf]"; // default text
 
-function featured{
+function featured() {
   alert ("We are still developing this + no one has submitted to be featured :c");
 }
-function beFeat{
+function beFeat() {
   alert ("We are trying to make one, sorry bestieeeeee");
 }
 
