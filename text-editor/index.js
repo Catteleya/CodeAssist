@@ -3,6 +3,13 @@ document.getElementById("heading").innerHTML =
 document.getElementById("content").innerHTML =
   localStorage["text"] || "Subtext [inf]"; // default text
 
+function featured{
+  alert ("We are still developing this + no one has submitted to be featured :c");
+}
+function beFeat{
+  alert ("We are trying to make one, sorry bestieeeeee");
+}
+
 setInterval(function() {
   // fuction that is saving the innerHTML of the div
   localStorage["title"] = document.getElementById("heading").innerHTML; // heading div
