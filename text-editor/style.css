@@ -31,6 +31,10 @@ div:focus {
   font-size: 48px;
   padding-top: 30px;
 }
+#heading-sub-text {
+  padding-top: 10px;
+  font-size: 30px;
+}
 
 #content {
   padding-top: 10px;
