@@ -10,10 +10,9 @@ button{
   border-color: #ff6969;
   color: #ddd;
 }
-
+dark_mode{background-color:rbg(66,66,66)}
 body {
-  background-color: #ff6969;
-  color: #ddd;
+  background-color: #ddd;
   font-weight: 100;
   max-width: 50em;
   margin: 0 auto;
