@@ -23,3 +23,8 @@ const sub = document.getElementById('example-btn');
 sub.addEventListener('click', () => {
   window.open('https://example.com', '_blank');
 });
+
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
